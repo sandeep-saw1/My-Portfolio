@@ -40,7 +40,7 @@ It showcases my **skills, projects, and contact information** in a modern and re
 ---
 
 ## 🖼️ Preview
-![Portfolio Screenshot](Img/myphoto.jpg)  
+![Portfolio Screenshot](Img/screen.jpg)  
 
 ---
 
